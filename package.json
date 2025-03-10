@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@prisma/client": "^6.4.1",
+    "dotenv": "^16.4.7",
+    "env-var": "^7.5.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
