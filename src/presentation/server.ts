@@ -8,7 +8,7 @@ export class Server {
 
     async start () {
         this.app.listen( 3000, () => {
-            console.log(`Escuchando en el Puerto: ${3000}`)
+            console.log(`Escuchando en el Puerto: ${3000}`);
         });
     }
 }
